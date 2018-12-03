@@ -64,16 +64,4 @@ class App extends Component {
   }
 }
 
-// {title: "Card 1", copy: "Card 1 Copy Here...", media: {…}, links: Array(2)}
-
-// links: Array(2)
-// 0: {type: "primary", title: "Click Me", href: "https://www.foo.com"}
-// 1: {type: "secodary", title: "Not Me", href: "https://www.bar.com"}
-// length: 2
-// __proto__: Array(0)
-// media:
-// alt: "This is a picture"
-// href: "https://placehold.it/200x100"
-// title: "This is the title of the picture"
-
 export default App;
