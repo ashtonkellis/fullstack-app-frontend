@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+
+  .deck {
+    margin: 2em;
+    outline: 1px solid red;
+
+    ul {
+      display: flex;
+      list-style-type: none;
+    }
+
+    .card {
+      outline: 1px solid green;
+      padding: 2em;
+      margin: 1em;
+
+      ul {
+        width: 80%;
+        display: flex;
+        justify-content: space-evenly;
+      }
+    }
+  }
+}
